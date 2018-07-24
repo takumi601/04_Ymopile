@@ -13,3 +13,7 @@ def saver(name,data):
     with open(name, mode='wb') as f:
          print("kita1")
          pickle.dump(data, f)
+
+
+def abcde():
+    pass
